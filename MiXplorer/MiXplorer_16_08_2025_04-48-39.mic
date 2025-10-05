@@ -1,0 +1,529 @@
+{
+  "title": "MiXplorer",
+  "package": "com.mixplorer.silver",
+  "date": "16\/08\/2025 04:48:39",
+  "type": 0,
+  "db": {
+    "uris": [
+      {
+        "pid": 14,
+        "uri": "\/data\/user\/0\/com.mixplorer.silver\/home",
+        "title": "Home",
+        "user": "",
+        "secret": "",
+        "properties": "##xL7YQRe8Wuw9DS6BoJZHZA"
+      },
+      {
+        "pid": 14,
+        "uri": "\/storage\/emulated\/0",
+        "title": "Internal storage",
+        "user": "",
+        "secret": "",
+        "properties": "##xL7YQRe8Wuw9DS6BoJZHZA"
+      },
+      {
+        "pid": 14,
+        "uri": "\/",
+        "title": "Root",
+        "user": "",
+        "secret": "",
+        "properties": "##xL7YQRe8Wuw9DS6BoJZHZA"
+      },
+      {
+        "pid": 14,
+        "uri": "\/storage\/emulated\/0\/Download",
+        "title": "Download",
+        "user": "",
+        "secret": "",
+        "properties": "##xL7YQRe8Wuw9DS6BoJZHZA"
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/audio",
+        "title": "Audio",
+        "user": "",
+        "secret": "",
+        "properties": "##drUfzlAQgkLZYNi1A6mRFw"
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/video",
+        "title": "Video",
+        "user": "",
+        "secret": "",
+        "properties": "##xL7YQRe8Wuw9DS6BoJZHZA"
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/image",
+        "title": "Image",
+        "user": "",
+        "secret": "",
+        "properties": "##xL7YQRe8Wuw9DS6BoJZHZA"
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/apk",
+        "title": "APK",
+        "user": "",
+        "secret": "",
+        "properties": "##xL7YQRe8Wuw9DS6BoJZHZA"
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/archive",
+        "title": "Archive",
+        "user": "",
+        "secret": "",
+        "properties": "##xL7YQRe8Wuw9DS6BoJZHZA"
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/document",
+        "title": "Document",
+        "user": "",
+        "secret": "",
+        "properties": "##xL7YQRe8Wuw9DS6BoJZHZA"
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/app",
+        "title": "App",
+        "user": "",
+        "secret": "",
+        "properties": "##eGlY2cEIckBIw_TI58lReJYRGy4lnfHSVmcvez92Gd4"
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/all",
+        "title": "All Files",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/recent",
+        "title": "Recent",
+        "user": "",
+        "secret": "",
+        "properties": "##modFSYMHAOcm2OitMfrihkr8oeVcfMtDqd4gAYzF2ZQ"
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/trash",
+        "title": "Recycle bin",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/whatsapp",
+        "title": "WhatsApp",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 14,
+        "uri": "content:\/\/mix\/telegram",
+        "title": "Telegram",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/Apps",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/DCIM",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/Pictures",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/Music",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/Movies",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/Modules",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/Download",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/Download\/.Seal",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/Documents",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/data\/adb",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/data\/adb\/rezygisk",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/data\/adb\/rvhc",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/data\/adb\/agh\/history.log",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "file=1"
+      },
+      {
+        "pid": 8,
+        "uri": "\/data\/adb\/agh",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/data",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/Download\/Telegram",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": ""
+      },
+      {
+        "pid": 8,
+        "uri": "\/storage\/emulated\/0\/Apps\/APatch_11107_11107-release-signed.apk",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "file=1"
+      },
+      {
+        "pid": 2,
+        "uri": "\/storage\/emulated\/0",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "##upUyA52Vjibm1a2ayuku7iiTYE--3Osoq7SLDiDqeYDXLgQQWGE7eA_44jbC7o4RPfZMwqbrLzTEpaVTqI__Mm8jACc0B6ZNZBH7VtX1iKioh8MXKDGBq2If-Sn27A8baWMksw4ckOblBAGzRsHOCoaecdYB7brh0vBKHmCqNHP11vwh1gtXLLY26ZIlrgSUjwmCpL_P15jE1uNkVqcnBqTMXHnWuzcr3cMUTtNcBsc"
+      },
+      {
+        "pid": 2,
+        "uri": "\/data\/user\/0\/com.mixplorer.silver\/home",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=6\nsort_group_parents=false\nsort_sections=true"
+      },
+      {
+        "pid": 2,
+        "uri": "\/",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=0\nsort_sections=false"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/audio",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=4\nsort_sections=true\nsort_group_albums=false\nsort_group_parents=false"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/video",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=4\nsort_sections=true\nsort_group_parents=false"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/image",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=4\nsort_sections=true\nsort_group_parents=true"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/apk",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort_group_parents=false\nsort_sections=false"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/archive",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=6\nsort_sections=true\nsort_group_parents=false"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/document",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=4\nsort_group_parents=false\nsort_sections=true"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/app",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=4\nsort_sections=false"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/all",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=4\nsort_sections=false"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/recent",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=4\nsort_dot_files_first=false\nsort_folders_first=false\nsort_sections=true"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/trash",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=8"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/whatsapp",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=4\nsort_sections=true\nsort_group_parents=false"
+      },
+      {
+        "pid": 2,
+        "uri": "content:\/\/mix\/telegram",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "sort=4\nsort_sections=true\nsort_group_parents=false"
+      },
+      {
+        "pid": 1,
+        "uri": "\/",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "##c1vDAHAcR-CJ9Z3OC8tTEA"
+      },
+      {
+        "pid": 1,
+        "uri": "\/storage\/emulated\/0",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "view=1"
+      },
+      {
+        "pid": 1,
+        "uri": "content:\/\/mix\/video",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "view=3"
+      },
+      {
+        "pid": 1,
+        "uri": "content:\/\/mix\/image",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "view=4"
+      },
+      {
+        "pid": 1,
+        "uri": "content:\/\/mix\/apk",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "view=3"
+      },
+      {
+        "pid": 1,
+        "uri": "content:\/\/mix\/document",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "view=4"
+      },
+      {
+        "pid": 1,
+        "uri": "content:\/\/mix\/app",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "view=3"
+      },
+      {
+        "pid": 1,
+        "uri": "content:\/\/mix\/all",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "view=5"
+      },
+      {
+        "pid": 1,
+        "uri": "content:\/\/mix\/recent",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "view=5"
+      },
+      {
+        "pid": 1,
+        "uri": "content:\/\/mix\/whatsapp",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "view=3"
+      },
+      {
+        "pid": 1,
+        "uri": "content:\/\/mix\/telegram",
+        "title": "",
+        "user": "",
+        "secret": "",
+        "properties": "view=3"
+      }
+    ],
+    "packages": []
+  },
+  "pref": {
+    "main": {
+      "full_filename": true,
+      "can_trash": false,
+      "default_folder": "\/storage\/emulated\/0",
+      "can_undo": false,
+      "code_editor": "encoding=\nwrap=false\nfontsize=39\nline_numbers=true\nhighlight=\nauto_indent=true\neditor_mode=0\nfull_view_size=0\nchars_view=true\nfullscreen=false\nhighlight_old=\nspell_check=false\nno_keyboard=false\nsaved_offs=2567701c:0\nauto_complete=false\nstart_with_keyboard=true\nstart_at_end=false\ntab_space=false\nshow_whitespace=false",
+      "home_folder": "\/storage\/emulated\/0",
+      "merge_tasks": true,
+      "custom_key_CHECK_ROOT_REM": "1",
+      "custom_key_increment_num_format": " (%01d)",
+      "ebook_reader": "orientation=0\nnight_mode=false\nfullscreen=true",
+      "custom_key_PERM_VIEW_REM_KEY": "1",
+      "custom_key_AGREE_PRIVACY": "true",
+      "custom_key_increment_num_prefix": "false",
+      "custom_key_QUERY_PKG_LIST_REM_KEY": "1",
+      "custom_key_AUTO_TASKS": "",
+      "split_action_bar": true,
+      "RADIO_RENAME_FILE": 37569494,
+      "folders_app_icon": "",
+      "custom_key_CHROMA": "xxxxx",
+      "tap_to_execute": true,
+      "play_background": true,
+      "custom_key_PERM_SHARE_REM_KEY": "1",
+      "shizuku": false,
+      "allow_root": true
+    },
+    "skins": {},
+    "servers": {}
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "createdDate": 1759441771017,
+  "description": "Useless, heavy, slow, and too many ads + trackers.",
+  "name": "Xiaomi Bloatware",
+  "version": "1.0",
+  "apps": [
+    {
+      "packageName": "com.miui.analytics"
+    },
+    {
+      "packageName": "com.google.android.marvin.talkback"
+    },
+    {
+      "packageName": "com.google.android.apps.restore"
+    },
+    {
+      "packageName": "android.qvaoverlay.common"
+    },
+    {
+      "packageName": "com.longcheertel.AutoTest"
+    },
+    {
+      "packageName": "com.xiaomi.barrage"
+    },
+    {
+      "packageName": "com.longcheertel.cit"
+    },
+    {
+      "packageName": "com.android.cellbroadcastreceiver.overlay.common"
+    },
+    {
+      "packageName": "com.android.inputsettings.overlay.miui"
+    },
+    {
+      "packageName": "com.android.managedprovisioning.overlay"
+    },
+    {
+      "packageName": "com.android.microdroid.empty_payload"
+    },
+    {
+      "packageName": "com.android.providers.partnerbookmarks"
+    },
+    {
+      "packageName": "com.android.settings.overlay.miui"
+    },
+    {
+      "packageName": "com.android.systemui.overlay.common"
+    },
+    {
+      "packageName": "com.android.systemui.overlay.miui"
+    },
+    {
+      "packageName": "com.android.virtualmachine.res"
+    },
+    {
+      "packageName": "com.microsoftsdk.crossdeviceservicebroker"
+    },
+    {
+      "packageName": "com.miui.miwallpaper.overlay"
+    },
+    {
+      "packageName": "com.miui.miwallpaper.overlay.customize"
+    },
+    {
+      "packageName": "com.miui.phone.carriers.overlay.h3g"
+    },
+    {
+      "packageName": "com.miui.phone.carriers.overlay.vodafone"
+    },
+    {
+      "packageName": "com.miui.settings.rro.device.type.overlay"
+    },
+    {
+      "packageName": "com.miui.system.overlay"
+    },
+    {
+      "packageName": "com.miui.wallpaper.overlay"
+    },
+    {
+      "packageName": "com.miui.wallpaper.overlay.customize"
+    },
+    {
+      "packageName": "com.qualcomm.atfwd"
+    },
+    {
+      "packageName": "com.qualcomm.atfwd2"
+    },
+    {
+      "packageName": "com.qualcomm.qti.biometrics.fingerprint.service"
+    },
+    {
+      "packageName": "com.qualcomm.qti.devicestatisticsservice"
+    },
+    {
+      "packageName": "com.qualcomm.qti.qms.service.trustzoneaccess"
+    },
+    {
+      "packageName": "com.xiaomi.touchservice"
+    },
+    {
+      "packageName": "com.qti.qualcomm.deviceinfo"
+    },
+    {
+      "packageName": "com.google.android.apps.docs"
+    },
+    {
+      "packageName": "com.google.android.apps.photos"
+    },
+    {
+      "packageName": "com.android.hotwordenrollment.xgoogle"
+    },
+    {
+      "packageName": "com.android.hotwordenrollment.okgoogle"
+    },
+    {
+      "packageName": "com.google.android.apps.subscriptions.red"
+    },
+    {
+      "packageName": "com.google.android.onetimeinitializer"
+    },
+    {
+      "packageName": "com.google.android.videos"
+    },
+    {
+      "packageName": "com.google.android.healthconnect.controller"
+    },
+    {
+      "packageName": "com.google.android.apps.healthdata"
+    },
+    {
+      "packageName": "com.google.android.gms.location.history"
+    },
+    {
+      "packageName": "com.google.android.apps.wellbeing"
+    },
+    {
+      "packageName": "com.google.android.apps.safetyhub"
+    },
+    {
+      "packageName": "com.wdstechnology.android.kryten"
+    },
+    {
+      "packageName": "com.google.android.gms.supervision"
+    },
+    {
+      "packageName": "com.miui.miservice"
+    },
+    {
+      "packageName": "com.miui.fmservice"
+    },
+    {
+      "packageName": "com.qualcomm.location"
+    },
+    {
+      "packageName": "com.miui.thirdappassistant"
+    },
+    {
+      "packageName": "com.miui.bugreport"
+    },
+    {
+      "packageName": "com.google.android.apps.tachyon"
+    },
+    {
+      "packageName": "com.google.android.apps.messaging"
+    },
+    {
+      "packageName": "com.mi.globalbrowser"
+    },
+    {
+      "packageName": "com.xiaomi.payment"
+    },
+    {
+      "packageName": "com.miui.accessibility"
+    },
+    {
+      "packageName": "com.miui.msa.global"
+    },
+    {
+      "packageName": "com.android.traceur"
+    },
+    {
+      "packageName": "com.miui.mediaviewer"
+    },
+    {
+      "packageName": "com.google.android.tts"
+    },
+    {
+      "packageName": "com.google.android.setupwizard"
+    },
+    {
+      "packageName": "android.autoinstalls.config.Xiaomi.model"
+    },
+    {
+      "packageName": "com.qti.qcc"
+    },
+    {
+      "packageName": "com.qualcomm.qti.server.qtiwifi"
+    },
+    {
+      "packageName": "com.miui.fm"
+    },
+    {
+      "packageName": "com.android.rkpdapp"
+    },
+    {
+      "packageName": "com.qualcomm.qti.ridemodeaudio"
+    },
+    {
+      "packageName": "com.xiaomi.mtb"
+    },
+    {
+      "packageName": "com.longcheertel.sarauth"
+    },
+    {
+      "packageName": "com.fingerprints.sensortesttool"
+    },
+    {
+      "packageName": "com.qualcomm.qti.simcontacts"
+    },
+    {
+      "packageName": "com.miui.daemon"
+    },
+    {
+      "packageName": "com.xiaomi.xmsfkeeper"
+    },
+    {
+      "packageName": "com.qualcomm.qti.xrvd.service"
+    },
+    {
+      "packageName": "com.google.android.projection.gearhead"
+    },
+    {
+      "packageName": "com.mi.globalminusscreen"
+    },
+    {
+      "packageName": "com.mi.appfinder"
+    },
+    {
+      "packageName": "com.mi.AutoTest"
+    },
+    {
+      "packageName": "com.mediatek.atmwifimeta"
+    },
+    {
+      "packageName": "com.xiaomi.cameratools"
+    },
+    {
+      "packageName": "com.mediatek.MtkSettingsResOverlay"
+    },
+    {
+      "packageName": "com.mediatek.SettingsProviderResOverlay"
+    },
+    {
+      "packageName": "com.miui.settings.rro.device.hide.statusbar.overlay"
+    },
+    {
+      "packageName": "com.debug.loggerui"
+    },
+    {
+      "packageName": "com.mi.healthglobal"
+    },
+    {
+      "packageName": "com.mediatek.engineermode"
+    },
+    {
+      "packageName": "com.huaqin.factory"
+    },
+    {
+      "packageName": "com.goodix.fingerprint.setting"
+    },
+    {
+      "packageName": "org.ifaa.aidl.manager"
+    },
+    {
+      "packageName": "com.xiaomi.joyose"
+    },
+    {
+      "packageName": "com.mediatek.lbs.em2.ui"
+    },
+    {
+      "packageName": "com.mediatek.magtapp"
+    },
+    {
+      "packageName": "com.mediatek.mdmconfig"
+    },
+    {
+      "packageName": "com.mediatek.mdmlsample"
+    },
+    {
+      "packageName": "com.facebook.system"
+    },
+    {
+      "packageName": "com.facebook.appmanager"
+    },
+    {
+      "packageName": "com.facebook.services"
+    },
+    {
+      "packageName": "com.fingerprints.optical"
+    },
+    {
+      "packageName": "com.xiaomi.glgm"
+    },
+    {
+      "packageName": "com.huaqin.sarcontroller"
+    },
+    {
+      "packageName": "com.tencent.soter.soterserver"
+    },
+    {
+      "packageName": "com.miui.yellowpage"
+    },
+    {
+      "packageName": "com.mediatek.ygps"
+    },
+    {
+      "packageName": "com.mi.global.pocostore"
+    },
+    {
+      "packageName": "com.preff.kb.xm"
+    }
+  ]
+}

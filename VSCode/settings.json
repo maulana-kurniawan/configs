@@ -1,0 +1,157 @@
+{
+    "[css][scss][less]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript][javascriptreact][typescript][typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json][jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "vscode.markdown-language-features",
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+        "files.trimTrailingWhitespace": false
+    },
+    "[php]": {
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    },
+    "chat.commandCenter.enabled": false,
+    "debug.terminal.clearBeforeReusing": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.markdownlint": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "editor.fontFamily": "'Iosevka Nerd Font Mono', 'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.guides.highlightActiveIndentation": true,
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.stickyScroll.enabled": false,
+    "editor.stickyScroll.scrollWithEditor": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "emmet.excludeLanguages": [],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "markdown": "html",
+        "njk": "html",
+        "vue-html": "html"
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "files.trimTrailingWhitespace": true,
+    "git.confirmSync": false,
+    "git.suggestSmartCommit": false,
+    "html.autoClosingTags": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.templating": true,
+    "html.format.unformatted": "wbr",
+    "html.format.wrapAttributes": "aligned-multiple",
+    "html.format.wrapLineLength": 0,
+    "javascript.autoClosingTags": true,
+    "javascript.preferences.renameMatchingJsxTags": true,
+    "javascript.suggest.autoImports": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "markdown.preview.fontFamily": "'Supreme', -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+    "npm.enableRunFromFolder": true,
+    "npm.packageManager": "npm",
+    "phpTools.suppressPremiumFeatures": true,
+    "prettier.bracketSameLine": true,
+    "prettier.experimentalTernaries": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.printWidth": 600,
+    "prettier.proseWrap": "never",
+    "prettier.quoteProps": "consistent",
+    "prettier.resolveGlobalModules": true,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "telemetry.telemetryLevel": "off",
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorStyleInactive": "line",
+    "terminal.integrated.enableImages": true,
+    "terminal.integrated.enableVisualBell": true,
+    "terminal.integrated.fontLigatures.enabled": true,
+    "terminal.integrated.middleClickBehavior": "paste",
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.tabs.defaultIcon": "terminal-cmd",
+    "typescript.autoClosingTags": true,
+    "typescript.preferences.renameMatchingJsxTags": true,
+    "typescript.suggest.autoImports": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "update.showReleaseNotes": false,
+    "workbench.colorCustomizations": {
+        "[Vira*]": {
+            "activityBar.activeBorder": "#1d6b44",
+            "activityBarBadge.background": "#1d6b44",
+            "activityBarTop.activeBorder": "#1d6b44",
+            "breadcrumb.activeSelectionForeground": "#1d6b44",
+            "commandCenter.activeBorder": "#1d6b4480",
+            "editor.findMatchBorder": "#1d6b44",
+            "editorSuggestWidget.highlightForeground": "#1d6b44",
+            "editorWidget.border": "#1d6b44",
+            "editorWidget.resizeBorder": "#1d6b44",
+            "list.activeSelectionForeground": "#1d6b44",
+            "list.activeSelectionIconForeground": "#1d6b44",
+            "list.highlightForeground": "#1d6b44",
+            "list.inactiveSelectionForeground": "#1d6b44",
+            "list.inactiveSelectionIconForeground": "#1d6b44",
+            "menu.selectionForeground": "#1d6b44",
+            "menubar.selectionForeground": "#1d6b44",
+            "notebook.inactiveFocusedCellBorder": "#1d6b4480",
+            "notificationLink.foreground": "#1d6b44",
+            "panelTitle.activeBorder": "#1d6b44",
+            "pickerGroup.foreground": "#1d6b44",
+            "progressBar.background": "#1d6b44",
+            "sash.hoverBorder": "#1d6b4480",
+            "scrollbarSlider.activeBackground": "#1d6b4480",
+            "selection.background": "#1d6b4440",
+            "settings.headerForeground": "#1d6b44",
+            "settings.modifiedItemIndicator": "#1d6b44",
+            "statusBarItem.remoteBackground": "#1d6b44",
+            "tab.activeBorder": "#1d6b44",
+            "textLink.foreground": "#1d6b44",
+            "toolbar.activeBackground": "#1d6b4426"
+        }
+    },
+    "workbench.colorTheme": "Ayu Mirage",
+    "workbench.editorAssociations": {
+        "{git,gitlens}:/**/*.{md,csv,svg}": "default",
+        "{git,gitlens}:/**/*.{md,csv}": "default"
+    },
+    "workbench.iconTheme": "ayu",
+    "workbench.list.smoothScrolling": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "workbench.startupEditor": "none",
+    "workbench.tree.enableStickyScroll": false
+}
