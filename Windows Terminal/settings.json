@@ -41,8 +41,8 @@
             "colorScheme": "Dark+",
             "font":
             {
-                "face": "Iosevka Nerd Font Mono",
-                "size": 11,
+                "face": "Cascadia Code",
+                "size": 10,
                 "weight": "normal"
             },
             "intenseTextStyle": "all",
