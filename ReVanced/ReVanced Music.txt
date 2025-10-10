@@ -1,0 +1,4 @@
+"music_hide_category_bar": true,
+"music_hide_navigation_bar_labels": true,
+"music_hide_navigation_bar_samples_button": true,
+"music_play_permanent_repeat": true
